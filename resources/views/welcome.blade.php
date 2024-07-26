@@ -12,6 +12,5 @@
     </head>
     <body>
         @livewire('clicker')
-        <livewire:clicker />
     </body>
 </html>
